@@ -221,6 +221,7 @@ These are a few of the notebooks related to Machine Learning, including Google's
 
 name = input("Enter your name:")
 course = input("Enter course name:")
+age=input("Enter your age:")
 
 try:
     total_classes=int(input("Enter total classes held:"))
